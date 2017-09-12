@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fcnmachado/museus2w/issues"
   },
-  "homepage": "https://github.com/fcnmachado/museus2w#readme"
+  "homepage": "https://github.com/fcnmachado/museus2w#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
