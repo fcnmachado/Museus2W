@@ -1,0 +1,19 @@
+{
+  "name": "museus2w",
+  "version": "1.0.0",
+  "description": "PIWEB UniSul - Sistema para museólogos/colecionadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcnmachado/museus2w.git"
+  },
+  "author": "Felipe Cordeiro Nobre Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fcnmachado/museus2w/issues"
+  },
+  "homepage": "https://github.com/fcnmachado/museus2w#readme"
+}
